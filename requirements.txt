@@ -1,0 +1,23 @@
+```txt
+# Data manipulation and analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook
+jupyter
+ipykernel
+
+# Machine Learning
+scikit-learn
+
+# Database connection
+sqlalchemy
+psycopg2-binary
+
+# Excel file support
+openpyxl
+```
